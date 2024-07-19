@@ -1,0 +1,64 @@
+#scrollspyHeading1 {
+    text-align: center;
+}
+
+.grid-container {
+    text-align: center;
+
+}
+
+.grid-container:hover {
+    text-align: center;
+    background-color: black;
+    color: white;
+    transition-duration: 1s;
+    border-radius: 10px;
+}
+
+#scrollspyHeading2 {
+    text-align: center;
+}
+
+#para {
+    text-align: center;
+}
+
+#table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#table:hover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: white;
+    border-radius: 30px;
+    transition: 2s;
+}
+
+table th td {
+    border: 2px solid black;
+}
+
+#scrollspyHeading3 {
+    text-align: center;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact:hover {
+
+    text-align: center;
+    background-color: black;
+    color: white;
+    transition-duration: 1s;
+    border-radius: 10px;
+}
